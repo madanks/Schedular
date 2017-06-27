@@ -1,4 +1,4 @@
-package com.madan.schedular.scheduler;
+package com.madan.scheduler.scheduler;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
